@@ -599,31 +599,6 @@
               }
             },
             {
-              "type": "tm.Boundary",
-              "smooth": true,
-              "source": {
-                "x": 102,
-                "y": 20
-              },
-              "target": {
-                "x": 1440,
-                "y": 470
-              },
-              "vertices": [
-                {
-                  "x": 72,
-                  "y": 247
-                },
-                {
-                  "x": 250,
-                  "y": 690
-                }
-              ],
-              "id": "db956f60-f2c4-4214-808a-b21299384f50",
-              "z": 12,
-              "attrs": {}
-            },
-            {
               "type": "tm.Flow",
               "smooth": true,
               "source": {
