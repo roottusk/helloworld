@@ -1255,6 +1255,64 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 1061,
+                "y": 108
+              },
+              "target": {
+                "x": 1057,
+                "y": 102
+              },
+              "vertices": [
+                {
+                  "x": 163,
+                  "y": 105
+                },
+                {
+                  "x": 161,
+                  "y": 627
+                },
+                {
+                  "x": 1057,
+                  "y": 606
+                }
+              ],
+              "id": "b3f12eb9-bb31-4cdf-8b44-5943af9aa4ca",
+              "z": 29,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 979,
+                "y": 850
+              },
+              "target": {
+                "x": 991,
+                "y": 861
+              },
+              "vertices": [
+                {
+                  "x": 993,
+                  "y": 1355
+                },
+                {
+                  "x": 178,
+                  "y": 1285
+                },
+                {
+                  "x": 221,
+                  "y": 795
+                }
+              ],
+              "id": "0a625db1-e142-453d-bad1-b2204fab4be5",
+              "z": 30,
+              "attrs": {}
             }
           ]
         },
